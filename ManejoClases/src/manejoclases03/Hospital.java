@@ -33,6 +33,6 @@ public class Hospital {
     
     public double obtenerPresupuesto(){
         return presupuesto;
-    }
+    } 
     
-}
+} 

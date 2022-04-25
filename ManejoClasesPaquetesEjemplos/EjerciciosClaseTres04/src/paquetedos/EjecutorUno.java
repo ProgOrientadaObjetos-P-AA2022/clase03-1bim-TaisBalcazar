@@ -7,8 +7,8 @@ package paquetedos;
 
 import paqueteuno.Pelicula;
 
-
 public class EjecutorUno {
+
     public static void main(String[] args) {
         Pelicula p = new Pelicula();
         int valor = 11;
